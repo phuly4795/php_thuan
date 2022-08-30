@@ -1,0 +1,68 @@
+.main{width: 100%;float: left;}
+.navbar{width: 100% ;float: left ;}
+.navbar .logo{float: left; width:15%;}
+.navbar .logo .navbar-brand{width: 50%;}
+.navbar .logo .navbar-brand img{width: 100%; border: none;background: none;}
+.nav .container-fluid{width: 100% !important;}
+h6 , p{text-align: center;}
+a{text-decoration: none; }
+a:hover{color: #C89979 !important;}
+i{font-size: 22px;color: #C89979;}
+.container-fluid{font-size: 22px;float: left;}
+.d-flex button{color: #BE9329;border: 1px solid #BE9329;}
+.d-flex button:hover{background-color: #E2BA48 !important;border: 1px solid #BE9329;}
+footer{clear: both;}
+
+
+.boxtrai{width: 35%;margin-left: 10%;float: left;margin-top: 4%;}
+.boxtrai img:hover{border: 1px solid #ccc; cursor: pointer;}
+.boxtrai img{width: 100%;position: relative;}
+.boxphai{width:35%;float: left;margin-top: 3%;margin-left: 5%;}
+
+.hinhdemo {width: 100%; display: flex; justify-content:space-evenly; text-align: center;margin-top: 3%;}
+.hinhdemo img{width: 80%;border: 1px solid gray; align-items: center; justify-content: center;}
+.hinhdemo img:hover{transform: scale(1.2);}
+.tensp{font-size: 20px;}
+.tensp hr{width: 50px; height: 4px;background-color: #ccc;margin-top: 10px;}
+.giasp{font-size: 20px;color: #c89979;}.del{color: #ccc;}
+.noidung p{margin-top: 20px;margin-bottom: 30px; line-height: 30px;}
+.noidungsp {line-height: 30px; margin-bottom: 20px;margin-left: 20px;}
+.nut{width: 100%;float: left;}
+.nut input{width: 35%}
+.nut button{width: 35%; height: 30px;color: white;font-weight: bold;background-color: #d26e4b;clear: both;}
+.nut button:hover{background-color: #a8583c;}
+
+.cachthanhtoan{width: 100%;float: left;}
+.cachthanhtoan h4{float: left; margin: 10% 10% 5% 0;}
+
+
+.logoship{float: left;width:100%;}
+.logoship img{width: 22.7%;float: left;margin: 1% 2% 1% 0;}
+
+
+.boxduoi{width: 40%;float: right;margin-right: 10%;}
+.themyeuthich{width: 100%;float: left;}
+.themyeuthich p{width: 100%;text-align: left;}
+
+.mota{width:80%; ; float: left; margin-bottom: 50px;margin-left: 10.2%;border-radius: 35px ;border: 1px solid #c2b7ad;}
+.ct{font-size: 22px;font-weight: bold;}
+.mota h2{text-align: center; padding-top: 5px;} .mota p{margin-left: 20px;line-height: 30px;margin-top: 10px; margin-bottom: 10px;}
+
+.prev {font-size: 25px;float: left;position: absolute;top: 70%;z-index: 1;}
+.next {position: absolute;top: 70%; font-size: 25px;left: 43%;float: right;}
+
+.ke{width: 80%;height: 5px; background-color: #ccc;float: left;}
+
+.tuade h3{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.binhluan{clear: both;;width: 80%;margin: 10%; margin-bottom: 5%;display: flex; background-color:cornsilk;flex-direction: column;border-radius: 9px;}
+.binhluan h3{float: left;}
+.obinhluan textarea{min-width: 100%;height: 150px;}
+.fb-like {margin-left: 3%;margin-top: 5px;width: 70px;}
+
+.dieuchinh{border: 1px solid #ccc;height: 50px;border-radius: 0 0 9px 9px;}
+.dieuchinh i{color: #288ad6;font-size: 30px;margin-left: 2%; margin-top: 10px;}
+.dieuchinh a{color: #288ad6;margin-left: 1%; margin-bottom: 5px;line-height: 10px;}
+.dieuchinh a:hover{color: #c77227;}
+.dieuchinh button{background-color: #288ad6;width: 150px;height: 40px;border-radius: 8px;float: right;margin-right: 4px;margin-top: 2px;}
+
+.bg {background: #000 !important;}
